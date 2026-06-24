@@ -2,7 +2,7 @@
 
 Information Science student at the University of North Florida focused on cybersecurity and software development.
 
-- Resume: https://dorks-and-dice.com/resume
+- Resume: https://kylebarnett.com
 - LinkedIn: https://www.linkedin.com/in/kyle-barnett03/
 - GitHub: https://github.com/LegendMaster03
 
