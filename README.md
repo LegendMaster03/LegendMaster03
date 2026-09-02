@@ -45,4 +45,4 @@ My work includes competitive cyber team process improvement, technical support a
 
 - Email: kbarnett0306@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kyle-barnett03/
-- Resume: https://dorks-and-dice.com/resume
+- Resume: https://kylebarnett.com
