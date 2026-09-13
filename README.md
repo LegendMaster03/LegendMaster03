@@ -1,4 +1,4 @@
-# Hi, I'm Kyle Barnett
+# Hi, I am Kyle Barnett
 
 Information Science student at the University of North Florida focused on cybersecurity and software development.
 
