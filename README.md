@@ -1,6 +1,6 @@
 # Hi, I am Kyle Barnett
 
-Information Science student at the University of North Florida focused on cybersecurity and software development.
+Information Science graduate of the University of North Florida focused on cybersecurity and software development.
 
 - Resume: https://kylebarnett.com
 - LinkedIn: https://www.linkedin.com/in/kyle-barnett03/
